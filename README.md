@@ -14,12 +14,11 @@
 
 - Também pensando em organização, criei objetos para Request e Response, caso queira verifica está em ./Request ou ./Response.
 
-- 
-
 # Caso queira testar:
 - Instalar a CLI do dotnet: https://dotnet.microsoft.com/pt-br/download (.NET 7.0);
 - Ir na IDE que desejar, vou assumir que o senhor use o vscode;
 - Apertar CTRL + J;
-- Digitar dotnet run
+- Digitar dotnet restore;
+- Digitar dotnet run;
 - Quando rodar, provalvemente, é na porta 5000;
 - Pra facilitar, no link: localhost:5000, o senhor adiciona /swagger -> localhost:5000/swagger.
